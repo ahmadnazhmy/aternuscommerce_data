@@ -1,0 +1,48 @@
+[
+  {
+    "result": [
+      {
+        "id": "1",
+        "name": "Informa G Council Kursi Kantor Sandaran Tinggi - Cokelat",
+        "category": "Kursi Kantor",
+        "price": "Rp2.239.000",
+        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1668612336/Products/10499721_1.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Informa Zenoa Kursi Kantor Sandaran Rendah - Merah",
+        "category": "Kursi Kantor",
+        "price": "Rp799.000",
+        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1675091607/Products/10508111_1.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Informa G Zaki Kursi Kantor Sandaran Rendah - Hitam",
+        "category": "Kursi Kantor",
+        "price": "Rp499.000",
+        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1685056034/Products/10515425_1.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Informa Gino Lampu Meja - Abu Abu",
+        "category": "Lampu Meja",
+        "price": "Rp599.000",
+        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1542821937/Products/10187145_1.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Informa Celtic Lampu Meja - Gold",
+        "category": "Lampu Meja",
+        "price": "Rp699.000",
+        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1601392712/Products/10402830_1.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Informa Garvil Lampu Meja - Hitam",
+        "category": "Lampu Meja",
+        "price": "Rp899.000",
+        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1568054654/Products/10292758_1.jpg"
+      },
+    ]
+  }
+]
