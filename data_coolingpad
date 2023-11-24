@@ -1,1 +1,28 @@
+[
+  {
+    "result": [
+      {
+        "id": "1",
+        "name": "Informa Celine Lemari Pakaian 2 Pintu Dengan Rak Sudut - Putih Oak",
+        "category": "Lemari",
+        "price": "Rp7.500.000",
+        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1671033045/Products/10514662_1.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Selma Ciara Marcy Lemari Pakaian 2 Pintu - Cokelat Oak",
+        "category": "Lemari",
+        "price": "Rp959.000",
+        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1692972178/Products/10549159_1.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Selma Archy Lemari Pakaian 2 Pintu - Cokelat Oak",
+        "category": "Lemari",
+        "price": "Rp2.999.000",
+        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1689163542/Products/10488172_1.jpg"
+      },
+    ]
+  }
+]
 
