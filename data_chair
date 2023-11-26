@@ -1,4 +1,5 @@
-[
+{
+  "result": [
   {
     "id": "1",
     "title": "Informa G Council Kursi Kantor Sandaran Tinggi - Cokelat",
@@ -30,3 +31,4 @@
     "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1685056034/Products/10515425_1.jpg"
   }
 ]
+}
