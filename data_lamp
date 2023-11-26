@@ -4,22 +4,31 @@
       {
         "id": "1",
         "name": "Informa Gino Lampu Meja - Abu Abu",
+        "description": "Gunakan Gino Lampu Meja untuk menerangi pengelihatan Anda ketika membaca ataupun bekerja. Lampu ini cocok digunakan pada meja belajar atau meja kerja. Selain memberikan pencahayaan memadai, lampu ini juga memberikan sentuhan dekorasi yang minimalis. Miliki penawaran menarik beragam kebutuhan Anda",
         "category": "Lampu Meja",
         "price": "Rp599.000",
+        "review": "2",
+        "score": "5.0",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1542821937/Products/10187145_1.jpg"
       },
       {
         "id": "2",
         "name": "Informa Celtic Lampu Meja - Gold",
+        "description": "Lampu merupakan salah satu elemen dekorasi penting untuk sebuah ruangan. Anda pun bisa menyesuaikan style lampu dengan dekorasi ruangan yang diusung. Nah, untuk ruangan bernuansa elegan atau klasik, Celtic Lampu Meja bisa menjadi pilihan tepat untuk menghiasi meja sisi atau nakas di kamar. Kap berbahan linen dengan frame metal dan sentuhan aksen marble menjadi ciri unik dari lampu ini.",
         "category": "Lampu Meja",
         "price": "Rp699.000",
+        "review": "5",
+        "score": "5.0",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1601392712/Products/10402830_1.jpg"
       },
       {
         "id": "3",
         "name": "Informa Garvil Lampu Meja - Hitam",
+        "description": "Garvil Lampu Meja merupakan pilihan ideal untuk mengisi meja kerja atau meja belajar. Pencahayaan lampu meja lebih terfokus pada satu titik, memberikan kenyamanan bagi Anda ketika beraktivitas di meja. Garvil Lampu Meja hadir dengan desain modern yang memberikan tampilan menarik pada dekorasi meja.",
         "category": "Lampu Meja",
         "price": "Rp899.000",
+        "review": "2",
+        "score": "3.5",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1568054654/Products/10292758_1.jpg"
       },
     ]
