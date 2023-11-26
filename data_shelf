@@ -3,23 +3,32 @@
     "result": [
       {
         "id": "1",
-        "name": "Informa Celine Lemari Pakaian 2 Pintu Dengan Rak Sudut - Putih Oak",
+        "title": "Informa Celine Lemari Pakaian 2 Pintu Dengan Rak Sudut - Putih Oak",
+        "description": "Lengkapi koleksi furnitur di kamar tidur atau closet room Anda dengan menghadirkan Celine lemari pakaian ini. Lemari pakaian 2 pintu tarik ini memiliki desain kontemporer berwarna putih oak yang dirancang menggunakan material berkualitas dengan finishing sempurna. Pada bagian dalam lemari terdapat gantungan hanger untuk menggantungkan dress, kebaya, jas, kemeja, dan pakaian lainnya. Terdapat rak sudut yang dapat Anda gunakan untuk meletakkan buku, hiasan miniatur, bingkai, dan sebagainya. Selain itu, pada rak sudut memiliki 3 laci penyimpanan untuk menyimpan pakaian, alat make-up, kosmetik, aksesori, dan barang lainnya.",
         "category": "Lemari",
         "price": "Rp7.500.000",
+        "review": "0",
+        "score": "5.0",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1671033045/Products/10514662_1.jpg"
       },
       {
         "id": "2",
-        "name": "Selma Ciara Marcy Lemari Pakaian 2 Pintu - Cokelat Oak",
+        "title": "Selma Ciara Marcy Lemari Pakaian 2 Pintu - Cokelat Oak",
+        "description": "Dengan lemari pakaian persembahan Selma, Anda dapat menjaga pakaian tetap terorganisir dan ruangan menjadi lebih rapi untuk menciptakan tampilan yang efisien dan estetis di dalam kamar Anda. Terbuat dari material yang berkualitas menjadikan lemari ini memiliki konstruksi yang kokoh dan kuat untuk digunakan sehari-hari. Selain itu, dihiasi motif serat kayu dengan dibalut warna cokelat oak memberikan kesan natural dan mudah dipadukan dengan berbagai tema desain interior ruangan.",
         "category": "Lemari",
         "price": "Rp959.000",
+        "review": "1",
+        "score": "5.0",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1692972178/Products/10549159_1.jpg"
       },
       {
         "id": "3",
-        "name": "Selma Archy Lemari Pakaian 2 Pintu - Cokelat Oak",
+        "title": "Selma Archy Lemari Pakaian 2 Pintu - Cokelat Oak",
+        "description": "Lemari pakaian merupakan salah satu furniture yang harus Anda miliki di rumah untuk menyimpan koleksi pakaian agar tetap rapi serta menjaganya tidak kotor akibat terkena debu dan kotoran. Memiliki 6 buah kompartemen dengan 1 kompartemen yang dilengkapi tongkat gantungan sehingga ideal untuk menggantungkan jenis pakaian khusus seperti blazer, coat, dress, ataupun kebaya. Selain itu, pada bagian dalam pintu lemari juga sudah dilengkapi hook tambahan yang dapat difungsikan untuk menggantung tas, pashmina, dan syal.",
         "category": "Lemari",
         "price": "Rp2.999.000",
+        "review": "61",
+        "score": "5.0",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1689163542/Products/10488172_1.jpg"
       },
     ]
