@@ -1,34 +1,32 @@
 [
-      {
-        "id": "1",
-        "title": "Informa G Council Kursi Kantor Sandaran Tinggi - Cokelat",
-        "description": "Informa menghadirkan kursi kantor sandaran tinggi berwarna cokelat untuk menunjang aktivitas bekerja Anda sehari-hari. Terbuat dari material serta finishing berkualitas sehingga kursi ini memiliki rangka yang kokoh, stabil, dan awet. Kursi ini memiliki dudukan serta sandaran yang empuk dan nyaman untuk penggunaan dalam waktu yang lama. Pada bagian kaki dilengkapi roda untuk mobilitas tinggi. Selain itu, terdapat tuas pengatur tinggi dudukan yang dapat Anda sesuaikan dengan kenyamanan. Selain menghadirkan kenyamanan, kursi ini dapat menciptakan kesan klasik modern pada kantor atau ruangan kerja Anda.",
-        "category": "Kursi Kantor",
-        "price": "Rp2.239.000",
-        "review": "10",
-        "score": "4.5",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1668612336/Products/10499721_1.jpg"
-      },
-      {
-        "id": "2",
-        "title": "Informa Zenoa Kursi Kantor Sandaran Rendah - Merah",
-        "description": "Informa menghadirkan Zenoa kursi kantor dengan sandaran rendah berwarna merah untuk menunjang aktivitas bekerja atau belajar Anda. Terbuat dari material berkualitas sehingga kursi ini memiliki rangka yang kokoh, stabil, dan awet. Kursi memiliki dudukan serta sandaran yang empuk dan nyaman sekalipun digunakan dalam waktu lama. Pada bagian kaki sudah dilengkapi roda untuk mobilitas tinggi. Selain itu, terdapat tuas pengatur tinggi dudukan yang dapat Anda sesuaikan dengan kenyamanan.",
-        "category": "Kursi Kantor",
-        "price": "Rp799.000",
-        "review": "8",
-        "score": "3.8",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1675091607/Products/10508111_1.jpg"
-      },
-      {
-        "id": "3",
-        "title": "Informa G Zaki Kursi Kantor Sandaran Rendah - Hitam",
-        "description": "G Zaki kursi kantor sandaran rendah dari Informa ini dilengkapi dengan tuas pengatur tinggi untuk memberikan kenyamanan dan fleksibilitas saat bekerja. Kursi ini dirancang dengan daya beban hingga 100 kg menjadikannya mampu menopang berbagai postur tubuh dengan aman. Dengan menggunakan kursi kantor sandaran rendah ini, Anda dapat mengatur tinggi kursi sesuai dengan kebutuhan sehingga dapat mengurangi ketegangan pada tubuh dan meningkatkan produktivitas kerja.
-
-Selain itu, memiliki desain yang elegan dan modern membuat kursi ini juga dapat meningkatkan tampilan ruangan kantor Anda. Saatnya hadirkan kursi kantor sandaran rendah dari Informa untuk merasakan kenyamanan yang terjamin dalam bekerja.",
-        "category": "Kursi Kantor",
-        "price": "Rp499.000",
-        "review": "12",
-        "score": "4.2",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1685056034/Products/10515425_1.jpg"
-      }
+  {
+    "id": "1",
+    "title": "Informa G Council Kursi Kantor Sandaran Tinggi - Cokelat",
+    "description": "Informa menghadirkan kursi kantor sandaran tinggi berwarna cokelat untuk menunjang aktivitas bekerja Anda sehari-hari. ...",
+    "category": "Kursi Kantor",
+    "price": "Rp2.239.000",
+    "review": "10",
+    "score": "4.5",
+    "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1668612336/Products/10499721_1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Informa Zenoa Kursi Kantor Sandaran Rendah - Merah",
+    "description": "Informa menghadirkan Zenoa kursi kantor dengan sandaran rendah berwarna merah untuk menunjang aktivitas bekerja atau belajar Anda. ...",
+    "category": "Kursi Kantor",
+    "price": "Rp799.000",
+    "review": "8",
+    "score": "3.8",
+    "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1675091607/Products/10508111_1.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Informa G Zaki Kursi Kantor Sandaran Rendah - Hitam",
+    "description": "G Zaki kursi kantor sandaran rendah dari Informa ini dilengkapi dengan tuas pengatur tinggi untuk memberikan kenyamanan dan fleksibilitas saat bekerja. ...",
+    "category": "Kursi Kantor",
+    "price": "Rp499.000",
+    "review": "12",
+    "score": "4.2",
+    "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1685056034/Products/10515425_1.jpg"
+  }
 ]
