@@ -21,28 +21,7 @@
         "category": "Meja Kantor",
         "price": "Rp4.999.000",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1636092731/Products/10455650_1.jpg"
-      },
-      {
-        "id": "7",
-        "name": "Informa Gino Lampu Meja - Abu Abu",
-        "category": "Lampu Meja",
-        "price": "Rp599.000",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1542821937/Products/10187145_1.jpg"
-      },
-      {
-        "id": "8",
-        "name": "Informa Celtic Lampu Meja - Gold",
-        "category": "Lampu Meja",
-        "price": "Rp699.000",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1601392712/Products/10402830_1.jpg"
-      },
-      {
-        "id": "9",
-        "name": "Informa Garvil Lampu Meja - Hitam",
-        "category": "Lampu Meja",
-        "price": "Rp899.000",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1568054654/Products/10292758_1.jpg"
-      },
+      }
     ]
   }
 ]
