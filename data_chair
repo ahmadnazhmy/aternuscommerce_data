@@ -3,65 +3,92 @@
     "result": [
       {
         "id": "1",
-        "name": "Informa G Council Kursi Kantor Sandaran Tinggi - Cokelat",
+        "title": "Informa G Council Kursi Kantor Sandaran Tinggi - Cokelat",
+        "description":"",
         "category": "Kursi Kantor",
         "price": "Rp2.239.000",
+        "review":"",
+        "score":"",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1668612336/Products/10499721_1.jpg"
       },
       {
         "id": "2",
-        "name": "Informa Zenoa Kursi Kantor Sandaran Rendah - Merah",
+        "title": "Informa Zenoa Kursi Kantor Sandaran Rendah - Merah",
+        "description":"",
         "category": "Kursi Kantor",
         "price": "Rp799.000",
+        "review":"",
+        "score":"",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1675091607/Products/10508111_1.jpg"
       },
       {
         "id": "3",
-        "name": "Informa G Zaki Kursi Kantor Sandaran Rendah - Hitam",
+        "title": "Informa G Zaki Kursi Kantor Sandaran Rendah - Hitam",
+        "description":"",
         "category": "Kursi Kantor",
         "price": "Rp499.000",
+        "review":"",
+        "score":"",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1685056034/Products/10515425_1.jpg"
       },
       {
         "id": "4",
-        "name": "Informa Maine Meja Kantor 120x60x75 Cm - Cokelat",
+        "title": "Informa Maine Meja Kantor 120x60x75 Cm - Cokelat",
+        "description":"",
         "category": "Meja Kantor",
         "price": "Rp1.999.000",
+        "review":"",
+        "score":"",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1560758309/Products/10190254_1.jpg"
       },
       {
         "id": "5",
-        "name": "Informa Farro Meja Kantor Adjustable - Cokelat",
+        "title": "Informa Farro Meja Kantor Adjustable - Cokelat",
+        "description":"",
         "category": "Meja Kantor",
         "price": "Rp599.000",
+        "review":"",
+        "score":"",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1695637580/Products/10451826_1.jpg"
       },
       {
         "id": "6",
-        "name": "Sieben Ii Meja Kantor Sisi Kiri 140 Cm",
+        "title": "Sieben Ii Meja Kantor Sisi Kiri 140 Cm",
+        "description":"",
         "category": "Meja Kantor",
         "price": "Rp4.999.000",
+        "review":"",
+        "score":"",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1636092731/Products/10455650_1.jpg"
       },
       {
         "id": "7",
-        "name": "Informa Gino Lampu Meja - Abu Abu",
+        "title": "Informa Gino Lampu Meja - Abu Abu",
+        "description":"",
         "category": "Lampu Meja",
         "price": "Rp599.000",
+        "review":"",
+        "score":"",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1542821937/Products/10187145_1.jpg"
       },
       {
         "id": "8",
-        "name": "Informa Celtic Lampu Meja - Gold",
+        "title": "Informa Celtic Lampu Meja - Gold",
+        "description":"",
         "category": "Lampu Meja",
         "price": "Rp699.000",
+        "review":"",
+        "score":"",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1601392712/Products/10402830_1.jpg"
       },
       {
         "id": "9",
-        "name": "Informa Garvil Lampu Meja - Hitam",
+        "title": "Informa Garvil Lampu Meja - Hitam",
+        "description":"",
         "category": "Lampu Meja",
         "price": "Rp899.000",
+        "review":"",
+        "score":"",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1568054654/Products/10292758_1.jpg"
       },
     ]
