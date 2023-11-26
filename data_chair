@@ -4,7 +4,7 @@
       {
         "id": "1",
         "title": "Informa G Council Kursi Kantor Sandaran Tinggi - Cokelat",
-        "description": "",
+        "description": "Informa menghadirkan kursi kantor sandaran tinggi berwarna cokelat untuk menunjang aktivitas bekerja Anda sehari-hari. Terbuat dari material serta finishing berkualitas sehingga kursi ini memiliki rangka yang kokoh, stabil, dan awet. Kursi ini memiliki dudukan serta sandaran yang empuk dan nyaman untuk penggunaan dalam waktu yang lama. Pada bagian kaki dilengkapi roda untuk mobilitas tinggi. Selain itu, terdapat tuas pengatur tinggi dudukan yang dapat Anda sesuaikan dengan kenyamanan. Selain menghadirkan kenyamanan, kursi ini dapat menciptakan kesan klasik modern pada kantor atau ruangan kerja Anda.",
         "category": "Kursi Kantor",
         "price": "Rp2.239.000",
         "review": "10",
@@ -14,7 +14,7 @@
       {
         "id": "2",
         "title": "Informa Zenoa Kursi Kantor Sandaran Rendah - Merah",
-        "description": "",
+        "description": "Informa menghadirkan Zenoa kursi kantor dengan sandaran rendah berwarna merah untuk menunjang aktivitas bekerja atau belajar Anda. Terbuat dari material berkualitas sehingga kursi ini memiliki rangka yang kokoh, stabil, dan awet. Kursi memiliki dudukan serta sandaran yang empuk dan nyaman sekalipun digunakan dalam waktu lama. Pada bagian kaki sudah dilengkapi roda untuk mobilitas tinggi. Selain itu, terdapat tuas pengatur tinggi dudukan yang dapat Anda sesuaikan dengan kenyamanan.",
         "category": "Kursi Kantor",
         "price": "Rp799.000",
         "review": "8",
@@ -24,72 +24,14 @@
       {
         "id": "3",
         "title": "Informa G Zaki Kursi Kantor Sandaran Rendah - Hitam",
-        "description": "",
+        "description": "G Zaki kursi kantor sandaran rendah dari Informa ini dilengkapi dengan tuas pengatur tinggi untuk memberikan kenyamanan dan fleksibilitas saat bekerja. Kursi ini dirancang dengan daya beban hingga 100 kg menjadikannya mampu menopang berbagai postur tubuh dengan aman. Dengan menggunakan kursi kantor sandaran rendah ini, Anda dapat mengatur tinggi kursi sesuai dengan kebutuhan sehingga dapat mengurangi ketegangan pada tubuh dan meningkatkan produktivitas kerja.
+
+Selain itu, memiliki desain yang elegan dan modern membuat kursi ini juga dapat meningkatkan tampilan ruangan kantor Anda. Saatnya hadirkan kursi kantor sandaran rendah dari Informa untuk merasakan kenyamanan yang terjamin dalam bekerja.",
         "category": "Kursi Kantor",
         "price": "Rp499.000",
         "review": "12",
         "score": "4.2",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1685056034/Products/10515425_1.jpg"
-      },
-      {
-        "id": "4",
-        "title": "Informa Maine Meja Kantor 120x60x75 Cm - Cokelat",
-        "description": "",
-        "category": "Meja Kantor",
-        "price": "Rp1.999.000",
-        "review": "15",
-        "score": "4.7",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1560758309/Products/10190254_1.jpg"
-      },
-      {
-        "id": "5",
-        "title": "Informa Farro Meja Kantor Adjustable - Cokelat",
-        "description": "",
-        "category": "Meja Kantor",
-        "price": "Rp599.000",
-        "review": "5",
-        "score": "3.5",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1695637580/Products/10451826_1.jpg"
-      },
-      {
-        "id": "6",
-        "title": "Sieben Ii Meja Kantor Sisi Kiri 140 Cm",
-        "description": "",
-        "category": "Meja Kantor",
-        "price": "Rp4.999.000",
-        "review": "20",
-        "score": "4.9",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1636092731/Products/10455650_1.jpg"
-      },
-      {
-        "id": "7",
-        "title": "Informa Gino Lampu Meja - Abu Abu",
-        "description": "",
-        "category": "Lampu Meja",
-        "price": "Rp599.000",
-        "review": "8",
-        "score": "3.7",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1542821937/Products/10187145_1.jpg"
-      },
-      {
-        "id": "8",
-        "title": "Informa Celtic Lampu Meja - Gold",
-        "description": "",
-        "category": "Lampu Meja",
-        "price": "Rp699.000",
-        "review": "12",
-        "score": "4.0",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1601392712/Products/10402830_1.jpg"
-      },
-      {
-        "id": "9",
-        "title": "Informa Garvil Lampu Meja - Hitam",
-        "description": "",
-        "category": "Lampu Meja",
-        "price": "Rp899.000",
-        "review": "18",
-        "score": "4.6",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1568054654/Products/10292758_1.jpg"
       }
     ]
   }
