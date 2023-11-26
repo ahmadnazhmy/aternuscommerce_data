@@ -3,23 +3,32 @@
     "result": [
       {
         "id": "1",
-        "name": "Informa Maine Meja Kantor 120x60x75 Cm - Cokelat",
-        "category": "Meja Kantor",
+        "title": "Informa Maine Meja Kantor 120x60x75 Cm - Cokelat",
+        "description":"Dapatkan kenyamanan selama berada di kantor dengan meja kantor dari Informa. Meja kerja ini dilengkapi dengan 2 laci di sisi kiri untuk menyimpan barang atau arsip. DI bagian atas meja ada lubang untuk kabel agar area kerja tetap rapi. Sisi depan meja ditambahkan kayu yang akan menutupi bagian bawah saat Anda duduk di belakang meja. Terbuat dari material MFC, dengan finishing melamine sehingga meja terlihat lebih elegan dan mudah dibersihkan.",
+        "category": "Meja Kantor"
         "price": "Rp1.999.000",
+        "review": "19",
+        "score": "4.8",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1560758309/Products/10190254_1.jpg"
       },
       {
         "id": "2",
-        "name": "Informa Farro Meja Kantor Adjustable - Cokelat",
+        "title": "Informa Farro Meja Kantor Adjustable - Cokelat",
+        "description": "Fasilitas penunjang yang berkualitas dapat membuat aktivitas kerja lebih nyaman. Untuk itu Informa hadir dengan inspirasi furnitur kantor yang bisa Anda pilih untuk menemani waktu kerja. Salah satunya adalah meja kerja Farro dengan fitur ketinggian yang bisa diatur sesuai kebutuhan. Meja ini memiliki kaki berbahan besi kokoh, dengan permukaan meja berlapis melamin yang halus dan mudah dibersihkan. Meja ini semakin istimewa berkat sentuhan motif walnut untuk memberikan kesan klasik pada ruangan.",
         "category": "Meja Kantor",
         "price": "Rp599.000",
+        "review": "25",
+        "score": "4.6",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1695637580/Products/10451826_1.jpg"
       },
       {
         "id": "3",
-        "name": "Sieben Ii Meja Kantor Sisi Kiri 140 Cm",
+        "title": "Sieben Ii Meja Kantor Sisi Kiri 140 Cm",
+        "description": "Meja kerja berkualitas dapat mendukung produktivitas Anda dalam bekerja sehari-hari. Sieben mempersembahkan meja kerja yang dirancang khusus agar sesuai dengan kebutuhan Anda. Memiliki desain bentuk unik dengan sudut dalam melengkung sehingga Anda dapat bekerja dengan lebih leluasa. Selain itu, meja ini sangat kuat dan kokoh karena terbuat dari material berkualitas. Hadir dengan warna dan aksen unik memberikan kesan klasik pada tampilan ruang kerja Anda.",
         "category": "Meja Kantor",
         "price": "Rp4.999.000",
+        "review": "0",
+        "score": "5.0",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1636092731/Products/10455650_1.jpg"
       }
     ]
