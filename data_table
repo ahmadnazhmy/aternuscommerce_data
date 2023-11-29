@@ -1,105 +1,104 @@
   {
-    "result": [
-      {
-        "id": "1",
-        "title": "Informa Maine Meja Kantor 120x60x75 Cm - Cokelat",
-        "description":"Dapatkan kenyamanan selama berada di kantor dengan meja kantor dari Informa. Meja kerja ini dilengkapi dengan 2 laci di sisi kiri untuk menyimpan barang atau arsip. DI bagian atas meja ada lubang untuk kabel agar area kerja tetap rapi. Sisi depan meja ditambahkan kayu yang akan menutupi bagian bawah saat Anda duduk di belakang meja. Terbuat dari material MFC, dengan finishing melamine sehingga meja terlihat lebih elegan dan mudah dibersihkan.",
-        "category": "Meja Kantor",
-        "price": "Rp1.999.000",
-        "review": "19",
-        "score": "4.8",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1560758309/Products/10190254_1.jpg"
-      },
-      {
-        "id": "2",
-        "title": "Informa Farro Meja Kantor Adjustable - Cokelat",
-        "description": "Fasilitas penunjang yang berkualitas dapat membuat aktivitas kerja lebih nyaman. Untuk itu Informa hadir dengan inspirasi furnitur kantor yang bisa Anda pilih untuk menemani waktu kerja. Salah satunya adalah meja kerja Farro dengan fitur ketinggian yang bisa diatur sesuai kebutuhan. Meja ini memiliki kaki berbahan besi kokoh, dengan permukaan meja berlapis melamin yang halus dan mudah dibersihkan. Meja ini semakin istimewa berkat sentuhan motif walnut untuk memberikan kesan klasik pada ruangan.",
-        "category": "Meja Kantor",
-        "price": "Rp599.000",
-        "review": "25",
-        "score": "4.6",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1695637580/Products/10451826_1.jpg"
-      },
-      {
-        "id": "3",
-        "title": "Sieben Ii Meja Kantor Sisi Kiri 140 Cm",
-        "description": "Meja kerja berkualitas dapat mendukung produktivitas Anda dalam bekerja sehari-hari. Sieben mempersembahkan meja kerja yang dirancang khusus agar sesuai dengan kebutuhan Anda. Memiliki desain bentuk unik dengan sudut dalam melengkung sehingga Anda dapat bekerja dengan lebih leluasa. Selain itu, meja ini sangat kuat dan kokoh karena terbuat dari material berkualitas. Hadir dengan warna dan aksen unik memberikan kesan klasik pada tampilan ruang kerja Anda.",
-        "category": "Meja Kantor",
-        "price": "Rp4.999.000",
-        "review": "0",
-        "score": "5.0",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1636092731/Products/10455650_1.jpg"
-      },
-      {
-        "id": "4",
-        "title": "Informa Amatsu Ryuu Meja Gaming - Hitam",
-        "description": "Amatsu Ryuu meja gaming persembahan Informa satu dapat membantu Anda untuk membuat aktivitas bermain game terasa lebih nyaman. Dirancang menggunakan material berkualitas yang juga sudah dilengkapi cup holder sebagai tempat penyimpanan tumbler atau cup minuman favorit Anda, serta headphone hanger untuk menempatkan smartphone agar berada di posisi yang aman. Dengan begitu, membuat meja gaming ini menjadi pilihan ideal untuk menunjang kebutuhan bermain game agar lebih menyenangkan.",
-        "category": "Meja Gaming",
-        "price": "Rp1.599.000",
-        "review": "12",
-        "score": "4.8",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1670255209/Products/10485312_1.jpg"
-      },
-      {
-        "id": "5",
-        "title": "Informa Kael Meja Gaming - Hitam",
-        "description": "Buat aktivitas sehari-hari Anda semakin terasa nyaman dan maksimal dengan menggunakan meja khusus gaming persembahan Informa satu ini. Kael meja gaming ini memiliki ketinggian ideal sehingga kepala Anda tidak akan terlalu menunduk atau mendongak ke atas. Meja ini juga sudah dilengkapi dengan bottle stand untuk tempat minum agar tidak mudah jatuh atau tumpah serta terdapat hanger untuk menggantungkan headphone. Hadir dengan desain modern dalam balutan warna hitam yang dapat meningkatkan tampilan ruangan semakin terlihat menarik.",
-        "category": "Meja Gaming",
-        "price": "Rp1.899.000,
-        "review": "1",
-        "score": "5.0",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1670857846/Products/10501111_1.jpg"
-      },
-      {
-        "id": "6",
-        "title": "nforma Gerald Meja Kantor - Cokelat Muda",
-        "description": "Hadrikan meja kerja minimalis persembahan Informa. Meja ini terbuat dari bahan berkualitas yang kuat dan kokoh. Memiliki warna kayu natural sehingga mudah dipadukan dengan dekorasi lainnya. Dilengkai dengan dua rak penyimpanan pada bagian untuk memudahkan Anda mengatur letak barang. Meja Gerald dapat digunakan bekerja atau belajar sehari-hari.",
-        "category": "Meja Kantor",
-        "price": "Rp1.699.000",
-        "review": "21",
-        "score": "5.0",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1610601544/Products/10428564_1.jpg"
-      },
-      {
-        "id": "7",
-        "title": "Informa Kortez Ken Meja Gaming - Hitam",
-        "description": "Buat aktivitas sehari-hari Anda semakin terasa nyaman dengan menggunakan Kortez Ken meja khusus gaming persembahan dari Informa ini. Memiliki ketinggian ideal sehingga kepala Anda tidak akan terlalu menunduk atau mendongak ke atas. Dirancang menggunakan material berkualitas sehingga rangka kokoh, stabil, dan awet. Hadir dalam balutan warna hitam yang dapat meningkatkan tampilan ruangan semakin modern.",
-        "category": "Meja Gaming",
-        "price": "Rp999.000",
-        "review": "1",
-        "score": "5.0",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1678374733/Products/10512693_1.jpg"
-      },
-      {
-        "id": "8",
-        "title": "Informa Foxy Meja Kantor Kaca - Hitam",
-        "description": "Fasilitas kantor adalah salah satu faktor penunjang produktivitas pekerja. Fasilitas penunjang yang berkualitas dapat menjadikan aktivitas kerja yang nyaman dan produktif. Karena itu, Informa mengahdirkan meja kantor yang bisa menginspirasi Anda untuk lebih produktif, dengan keyamanan yang bisa Anda rasakan sepenuhnya. Dibuat dari material yang sangat kokoh menjadikannya salah satu meja kantor yang sangat diminati. Selain itu, ukurannya yang minimalis tak banyak makan tempat membuat suasana ruangan akan terasa lebih lega.",
-        "category": "Product Category 5",
-        "price": "Rp1.099.000",
-        "review": "1",
-        "score": "5.0",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1610601390/Products/10424386_1.jpg"
-      },
-      {
-        "id": "9",
-        "title": "Informa Lynd Meja Kantor Metal - Krem Beige",
-        "description": "Lynd meja kantor metal persembahan Informa ini merupakan pilihan tepat untuk memenuhi kebutuhan furniture di rumah Anda. Dengan konstruksi yang kokoh dan tahan lama, meja kantor ini memberikan stabilitas yang optimal untuk penggunaan jangka panjang. Dengan desain minimalis yang elegan, meja kantor ini memberikan tampilan modern dan bersih pada ruangan Anda. Hadirkan meja kantor dari Informa ini di ruang kerja Anda untuk menciptakan suasana kerja yang fokus dan produktif di rumah sehingga memungkinkan Anda bekerja dengan nyaman dan terorganisir.",
-        "category": "Meja Kantor",
-        "price": "Rp1.099.000",
-        "review": "2",
-        "score": "5.0",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1687388686/Products/10509691_1.jpg"
-      },
-      {
-        "id": "10",
-        "title": "Informa Unite Meja Komputer Lift Up - Merah/putih",
-        "description": "Informa menghadirkan Unite meja komputer dengan fitur lift up yang hadir sebagai solusi fungsional untuk di kantor, ruang belajar, kamar tidur, atau area lainnya. Dirancang menggunakan material berkualitas sehingga rangka kokoh, stabil, dan awet. Memiliki permukaan luas dan tinggi meja yang dapat disesuaikan dengan kenyamanan sekaligus mengurangi tekanan pada punggung Anda.",
-        "category": "Meja Kantor",
-        "price": "Rp2.599.000",
-        "review": "0",
-        "score": "5.0",
-        "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_200,h_200/f_auto,q_auto:eco/v1696622905/Products/10536213_2.jpg"
-      }
-    ]
-  }
-
+  "result": [
+    {
+      "id": "1",
+      "title": "Informa Maine Meja Kantor 120x60x75 Cm - Cokelat",
+      "description": "Dapatkan kenyamanan selama berada di kantor dengan meja kantor dari Informa. Meja kerja ini dilengkapi dengan 2 laci di sisi kiri untuk menyimpan barang atau arsip. DI bagian atas meja ada lubang untuk kabel agar area kerja tetap rapi. Sisi depan meja ditambahkan kayu yang akan menutupi bagian bawah saat Anda duduk di belakang meja. Terbuat dari material MFC, dengan finishing melamine sehingga meja terlihat lebih elegan dan mudah dibersihkan.",
+      "category": "Meja Kantor",
+      "price": "Rp1.999.000",
+      "review": "19",
+      "score": "4.8",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1560758309/Products/10190254_1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Informa Farro Meja Kantor Adjustable - Cokelat",
+      "description": "Fasilitas penunjang yang berkualitas dapat membuat aktivitas kerja lebih nyaman. Untuk itu Informa hadir dengan inspirasi furnitur kantor yang bisa Anda pilih untuk menemani waktu kerja. Salah satunya adalah meja kerja Farro dengan fitur ketinggian yang bisa diatur sesuai kebutuhan. Meja ini memiliki kaki berbahan besi kokoh, dengan permukaan meja berlapis melamin yang halus dan mudah dibersihkan. Meja ini semakin istimewa berkat sentuhan motif walnut untuk memberikan kesan klasik pada ruangan.",
+      "category": "Meja Kantor",
+      "price": "Rp599.000",
+      "review": "25",
+      "score": "4.6",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1695637580/Products/10451826_1.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Sieben Ii Meja Kantor Sisi Kiri 140 Cm",
+      "description": "Meja kerja berkualitas dapat mendukung produktivitas Anda dalam bekerja sehari-hari. Sieben mempersembahkan meja kerja yang dirancang khusus agar sesuai dengan kebutuhan Anda. Memiliki desain bentuk unik dengan sudut dalam melengkung sehingga Anda dapat bekerja dengan lebih leluasa. Selain itu, meja ini sangat kuat dan kokoh karena terbuat dari material berkualitas. Hadir dengan warna dan aksen unik memberikan kesan klasik pada tampilan ruang kerja Anda.",
+      "category": "Meja Kantor",
+      "price": "Rp4.999.000",
+      "review": "0",
+      "score": "5.0",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1636092731/Products/10455650_1.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Informa Amatsu Ryuu Meja Gaming - Hitam",
+      "description": "Amatsu Ryuu meja gaming persembahan Informa satu dapat membantu Anda untuk membuat aktivitas bermain game terasa lebih nyaman. Dirancang menggunakan material berkualitas yang juga sudah dilengkapi cup holder sebagai tempat penyimpanan tumbler atau cup minuman favorit Anda, serta headphone hanger untuk menempatkan smartphone agar berada di posisi yang aman. Dengan begitu, membuat meja gaming ini menjadi pilihan ideal untuk menunjang kebutuhan bermain game agar lebih menyenangkan.",
+      "category": "Meja Gaming",
+      "price": "Rp1.599.000",
+      "review": "12",
+      "score": "4.8",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1670255209/Products/10485312_1.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Informa Kael Meja Gaming - Hitam",
+      "description": "Buat aktivitas sehari-hari Anda semakin terasa nyaman dan maksimal dengan menggunakan meja khusus gaming persembahan Informa satu ini. Kael meja gaming ini memiliki ketinggian ideal sehingga kepala Anda tidak akan terlalu menunduk atau mendongak ke atas. Meja ini juga sudah dilengkapi dengan bottle stand untuk tempat minum agar tidak mudah jatuh atau tumpah serta terdapat hanger untuk menggantungkan headphone. Hadir dengan desain modern dalam balutan warna hitam yang dapat meningkatkan tampilan ruangan semakin terlihat menarik.",
+      "category": "Meja Gaming",
+      "price": "Rp1.899.000",
+      "review": "1",
+      "score": "5.0",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1670857846/Products/10501111_1.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Informa Gerald Meja Kantor - Cokelat Muda",
+      "description": "Hadrikan meja kerja minimalis persembahan Informa. Meja ini terbuat dari bahan berkualitas yang kuat dan kokoh. Memiliki warna kayu natural sehingga mudah dipadukan dengan dekorasi lainnya. Dilengkai dengan dua rak penyimpanan pada bagian untuk memudahkan Anda mengatur letak barang. Meja Gerald dapat digunakan bekerja atau belajar sehari-hari.",
+      "category": "Meja Kantor",
+      "price": "Rp1.699.000",
+      "review": "21",
+      "score": "5.0",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1610601544/Products/10428564_1.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Informa Kortez Ken Meja Gaming - Hitam",
+      "description": "Buat aktivitas sehari-hari Anda semakin terasa nyaman dengan menggunakan Kortez Ken meja khusus gaming persembahan dari Informa ini. Memiliki ketinggian ideal sehingga kepala Anda tidak akan terlalu menunduk atau mendongak ke atas. Dirancang menggunakan material berkualitas sehingga rangka kokoh, stabil, dan awet. Hadir dalam balutan warna hitam yang dapat meningkatkan tampilan ruangan semakin modern.",
+      "category": "Meja Gaming",
+      "price": "Rp999.000",
+      "review": "1",
+      "score": "5.0",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1678374733/Products/10512693_1.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Informa Foxy Meja Kantor Kaca - Hitam",
+      "description": "Fasilitas kantor adalah salah satu faktor penunjang produktivitas pekerja. Fasilitas penunjang yang berkualitas dapat menjadikan aktivitas kerja yang nyaman dan produktif. Karena itu, Informa mengahdirkan meja kantor yang bisa menginspirasi Anda untuk lebih produktif, dengan keyamanan yang bisa Anda rasakan sepenuhnya. Dibuat dari material yang sangat kokoh menjadikannya salah satu meja kantor yang sangat diminati. Selain itu, ukurannya yang minimalis tak banyak makan tempat membuat suasana ruangan akan terasa lebih lega.",
+      "category": "Meja Kantor",
+      "price": "Rp1.099.000",
+      "review": "1",
+      "score": "5.0",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1610601390/Products/10424386_1.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Informa Lynd Meja Kantor Metal - Krem Beige",
+      "description": "Lynd meja kantor metal persembahan Informa ini merupakan pilihan tepat untuk memenuhi kebutuhan furniture di rumah Anda. Dengan konstruksi yang kokoh dan tahan lama, meja kantor ini memberikan stabilitas yang optimal untuk penggunaan jangka panjang. Dengan desain minimalis yang elegan, meja kantor ini memberikan tampilan modern dan bersih pada ruangan Anda. Hadirkan meja kantor dari Informa ini di ruang kerja Anda untuk menciptakan suasana kerja yang fokus dan produktif di rumah sehingga memungkinkan Anda bekerja dengan nyaman dan terorganisir.",
+      "category": "Meja Kantor",
+      "price": "Rp1.099.000",
+      "review": "2",
+      "score": "5.0",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1687388686/Products/10509691_1.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Informa Unite Meja Komputer Lift Up - Merah/putih",
+      "description": "Informa menghadirkan Unite meja komputer dengan fitur lift up yang hadir sebagai solusi fungsional untuk di kantor, ruang belajar, kamar tidur, atau area lainnya. Dirancang menggunakan material berkualitas sehingga rangka kokoh, stabil, dan awet. Memiliki permukaan luas dan tinggi meja yang dapat disesuaikan dengan kenyamanan sekaligus mengurangi tekanan pada punggung Anda.",
+      "category": "Meja Kantor",
+      "price": "Rp2.599.000",
+      "review": "0",
+      "score": "5.0",
+      "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_200,h_200/f_auto,q_auto:eco/v1696622905/Products/10536213_2.jpg"
+    }
+  ]
+}
