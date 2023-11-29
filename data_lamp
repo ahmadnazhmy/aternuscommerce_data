@@ -30,5 +30,75 @@
         "score": "3.5",
         "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1568054654/Products/10292758_1.jpg"
       },
+      {
+          "id": "4",
+          "title": "Lampu Hias Dekorasi Kamar LED RGB Remote Control Warna Warni",
+          "description": "Lampu LED ini sangat cocok dijadikan sebagai lampu dekorasi kamar. Dengan warna RGB, Anda dapat menciptakan nuansa ruangan beragam sesuai selera. Lampu LED dekorasi ini diletakkanan pada sudut ruangan sehingga tidak memakan banyak tempat.",
+          "category": "Lampu LED",
+          "price": "Rp538.020",
+          "review": "8",
+          "score": "5.0",
+          "poster": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/4/27/e17e4e05-e5c8-4d7e-9362-f7b6900d08e7.jpg"
+        },
+        {
+          "id": "5",
+          "title": "Lampu LED Strip RGB Gaming 5M Remote Dekorasi Monitor PC",
+          "description": "Lampu LED strip dengan kontroler RGB dengan panjang 5 meter dan terdapat 300 LED. Lampu ini sangat cocok untuk digunakan sebagai penghias ruangan seperti menghias casing komputer, meja kerja, ruang tamu dan lainnya. Terdapat remote control untuk mengendalikan LED Strip dari jarak jauh.",
+          "category": "Lampu LED",
+          "price": "Rp171.443",
+          "review": "0",
+          "score": "5.0",
+          "poster": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/11/16/75d1a243-305d-4d07-9baf-c78a06dd6cdf.jpg"
+        },
+        {
+          "id": "6",
+          "title": "Informa Gibsy Lampu Meja Metal - Hitam",
+          "description": "Penambahan lampu dapat meningkatkan pencahayaan ruangan menjadi lebih baik. Selain itu, lampu juga dapat menjadi pelengkap dekorasi yang menarik. Gibsy Lampu Meja dari Informa salah satunya yang memiliki desain minimalis. Cocok sekali digunakan pada ruang tamu atau kamar tidur Anda. Selain menarik, lampu ini juga terbuat dari material berkualitas. Sangat kokoh serta dapat digunakan untuk jangka waktu yang panjang.",
+          "category": "Lampu Meja",
+          "price": "Rp499.000",
+          "review": "0",
+          "score": "5.0",
+          "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1696345757/Products/10441472_1.jpg"
+        },
+        {
+          "id": "7",
+          "title": "Informa Gusto Lampu Meja 2l - Hitam",
+          "description": "Informa menghadirkan Gusto lampu meja yang tidak hanya sebagai sumber cahaya, tetapi juga sebagai elemen dekoratif yang dapat meningkatkan tampilan ruangan. Lampu ini cocok untuk ditempatkan di meja kerja, meja samping, atau di ruang tamu sebagai aksen pencahayaan. Dilengkapi saklar on/off yang mudah dijangkau, memungkinkan Anda mengatur intensitas pencahayaan sesuai kebutuhan. Saatnya tambahkan sentuhan kehangatan cahaya ke dalam ruangan Anda dengan Informa Gusto lampu meja satu ini.",
+          "category": "Lampu Meja",
+          "price": "Rp899.000",
+          "review": "0",
+          "score": "5.0",
+          "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1690902459/Products/10535771_1.jpg"
+        },
+        {
+          "id": "8",
+          "title": "Informa Gazel Lampu Meja - Hitam",
+          "description": "Pastikan Anda mendapatkan pencahayaan yang lebih maksimal dengan menggunakan lampu pada meja kerja atau belajar. Lampu meja Gazel dari Informa adalah pilihan yang tepat bagi Anda untuk menemani aktivitas Anda saat belajar ataupun bekerja. Hadir dengan desain yang cantik, lampu meja ini bisa digunakan untuk meja di rumah ataupun kantor.",
+          "category": "Lampu Meja",
+          "price": "Rp649.000",
+          "review": "1",
+          "score": "5.0",
+          "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1609736604/Products/10425722_1.jpg"
+        },
+        {
+          "id": "9",
+          "title": "Informa Lampu Meja Tripod - Hitam",
+          "description": "Menggunakan lampu meja dapat membantu Anda mendapatkan pencahayaan terfokus, sekaligus mempercantik dekorasi meja. Tripod Lampu Meja hadir dengan desain modern, dilengkapi 3 kaki bergaya unik menyerupai tripod. Cocok untuk mengisi meja sudut atau meja nakas di kamar tidur. Dapatkan segera produk ini dengan penawaran menarik dari Ruparupa.",
+          "category": "Lampu Meja",
+          "price": "Rp600.000",
+          "review": "1",
+          "score": "5.0",
+          "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1522724782/Products/10102574_1.jpg"
+        },
+        {
+          "id": "10",
+          "title": "Informa Gibson Lampu Meja - Putih",
+          "description": "Informa menghadirkan Gibson lampu meja yang dapat memberikan penerangan tambahan saat Anda bekerja atau pun belajar. Memiliki desain modern yang dibuat dari material metal berkualitas dengan finishing powder coating dan electroplating sehingga membuat Gibson lampu meja ini akan semakin terlihat lebih premium. Selain dapat ditempatkan di meja kerja atau belajar, lampu meja ini juga cocok ditempatkan di meja sisi dan meja nakas.",
+          "category": "Lampu Meja",
+          "price": "Rp699.000",
+          "review": "4",
+          "score": "5.0",
+          "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1653492509/Products/10470936_1.jpg"
+        }
     ]
   }
