@@ -1,5 +1,4 @@
-  {
-    "result": [
+[
       {
         "id": "1",
         "title": "Informa Gino Lampu Meja - Abu Abu",
@@ -101,4 +100,3 @@
           "poster": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1653492509/Products/10470936_1.jpg"
         }
     ]
-  }
